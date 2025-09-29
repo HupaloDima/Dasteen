@@ -274,7 +274,7 @@ input[type="submit"]{
     font-weight: 700;
     text-transform: capitalize;
 }
-.autor{
+.author{
     display: flex;
     align-items: center;
     gap: 15px;
